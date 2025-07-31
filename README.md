@@ -43,19 +43,6 @@ The dataset contains over 500,000 address points in the city of Toronto, with at
     - The Power BI project file (`.pbix`) is located in the `dashboard/` directory.
     - Open the file in Power BI Desktop to view and interact with the dashboard.
 
-## 🖼️ Screenshots
-
-Here are some screenshots of the dashboard:
-
-*   *Screenshot 1: Main dashboard view*
-    ![Main Dashboard](images/screenshot1.png)
-
-*   *Screenshot 2: Map view*
-    ![Map View](images/screenshot2.png)
-
-*   *Screenshot 3: Detailed view*
-    ![Detailed View](images/screenshot3.png)
-
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
