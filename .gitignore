@@ -1,0 +1,24 @@
+# Data files
+data/*
+!data/README.md
+
+# Power BI files
+*.pbix
+*.pbit
+*.pbids
+
+# Ignore all backup/temporary Power BI files
+~$*.pbix
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+
+# OS specific
+.DS_Store
+Thumbs.db
